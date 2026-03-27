@@ -8,6 +8,7 @@ directorio_a_organizar = "./Documentos"
 EXTENSIONES = {
     "Imagenes": [".jpg", ".jpeg", ".png", ".gif"],
     "Documentos": [".pdf", ".docx", ".txt", ".xlsx", ".pptx"],
+    "Codigos": [".py", ".html", ".css", ".java"],
     "Videos": [".mp4", ".mkv", ".mov"],
     "Comprimidos": [".zip", ".rar"]
 }
