@@ -7,7 +7,7 @@ directorio_a_organizar = "./Documentos"
 # Diccionario que define las extensiones y sus carpetas destino
 EXTENSIONES = {
     "Imagenes": [".jpg", ".jpeg", ".png", ".gif"],
-    "Documentos": [".pdf", ".docx", ".txt", ".xlsx"],
+    "Documentos": [".pdf", ".docx", ".txt", ".xlsx", ".pptx"],
     "Videos": [".mp4", ".mkv", ".mov"],
     "Comprimidos": [".zip", ".rar"]
 }
